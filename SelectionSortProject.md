@@ -31,3 +31,4 @@ Since the number sought is closer to the middle, it is included in the `Average 
 3 - [2,3,4,5,7,9,8,15,6]
 
 4 - [2,3,4,5,6,9,8,15,7]
+ 
